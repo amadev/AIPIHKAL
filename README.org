@@ -48,7 +48,7 @@
     #+begin_src gfm
       Before you start, please ask me any questions you have about this so I can give you more context.
 
-      Be extremely comprehensive
+      Be extremely comprehensive.
     #+end_src
 ** AutoExpert
    :PROPERTIES:
@@ -864,6 +864,20 @@
 
      Explain how I'd do that.
    #+end_src
+** Experienced IT manager / CTO
+
+   #+description: Experienced IT manager / CTO
+   #+name: step-by-step
+   #+begin_src gfm
+     Let's think step by step to to share ideas, maintain that collaborative spirit and arrive at the best answer.
+
+     Before you start, please ask me any questions you have about this so I can give you more context.
+
+     Be extremely comprehensive.
+
+   #+end_src
+
+
 * Generate all the prompts as Markdown files
   :PROPERTIES:
   :image:    img/markdown-cyberpunk-machine-1-crop-4-3.png
